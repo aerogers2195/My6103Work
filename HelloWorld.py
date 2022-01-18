@@ -15,7 +15,7 @@ print("%d. I want to say %s" % (cnt,astring) )
 cnt+=1
 print(cnt,". I want to say" + astring )
 cnt+=1
-print(cnt, ". I want to say",astring )
+print(cnt, ". I want to yell",astring )
 cnt+=1
 print("%d. I want to say %s, my sweetie %.3f" % (cnt,astring,anum) )
 cnt+=1
